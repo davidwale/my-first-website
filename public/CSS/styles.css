@@ -20,7 +20,7 @@ body {
     background-size: cover;
     background-position: center;
     /* background-color: #101010; */
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../image/macode.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../CSS/macode.jpg);
 }
 
 .navbar-inner {

@@ -6,6 +6,7 @@
 body {
    overflow-y: unset;
    padding-top: 50px;
+   scroll-behavior: smooth;
 }
 
 
@@ -176,6 +177,20 @@ h4 {
     top: 6px;
     right: 6px;
 } 
+hr {
+    margin: 0;
+    color: white;
+}
+
+.portfolio h1 {
+    color: #858585;
+    margin: 0;
+    padding: 30px 0;
+}
+.portfolio {
+    background-color: #101010;
+    margin: 0;
+}
 
 .about {
     width: 100%;
